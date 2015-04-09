@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It tells git to start a new repository in a directory. I need to do it to start using git duh!
+
+
+staging area reflection
+

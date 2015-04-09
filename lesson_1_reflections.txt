@@ -1,0 +1,2 @@
+It's much easier to compare the two files side by side, plus it shows exactly what
+we added and what we removed

@@ -5,3 +5,6 @@ It tells git to start a new repository in a directory. I need to do it to start 
 
 staging area reflection
 
+reflect on commit size
+
+

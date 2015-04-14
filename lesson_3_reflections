@@ -10,3 +10,6 @@ because I'm not alwaays working on a definitive version
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 They're different
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+in case we are working offline and for working on the actual las known state
